@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Canberk5
-- 👀 I’m interested in Web3/AI/Machine Learning 
+- 👀 I’m interested in AI/Machine Learning/Web3 
 - 🌱 I’m currently on a Data Scientist Bootcamp
 - 💞️ I’m looking to collaborate with anyone who is interested in this areas
 - 📫 You can reach me via email //canberkcevit5@gmail.com
